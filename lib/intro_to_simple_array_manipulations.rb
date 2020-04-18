@@ -1,4 +1,3 @@
 def using_push(colors_in_the_rainbow, next_color)
-  updated_array = [" ", "next_color"]
-  updated_array.last
+  colors_in_the_rainbow = []
 end
